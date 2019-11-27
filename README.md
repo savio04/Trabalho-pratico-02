@@ -1,6 +1,6 @@
 ___Trabalho Prático 02___
 
-Aluno: Sávio Araújo Gomes
+Aluno: Sávio Araújo Gomes;
 Matricula: 474201
 
 ___Baixar arquivo___

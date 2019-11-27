@@ -1,14 +1,14 @@
-#Trabalho Prático 02
+___Trabalho Prático 02___
 
 Aluno: Sávio Araújo Gomes
 Matricula: 474201
 
-#Baixar arquivo
+___Baixar arquivo___
 
 Após ter acessado link disponivel no relatório, clique no botão verde escrito "clone or download" e em seguida clique na opção "Download.zip".
 Depois disso procure o local que o arquivo foi baixado e extraia o arquivo, com isso aparecerá uma pasta escrito "Trabalho-pratico-02-master".
 
-Executar Programa
+___Executar Programa___
 
 Com o Scikit-learn e o pacote anaconda instalados, caso não possua nenhum, tutorial de download disponivel em:https://scikit-learn.org/stable/install.html.
 Abra o aplicativo Spyder, clique na aba "File/arquivo" (canto superior esquerdo) depois clique em "open/Abrir...", após isso procure a pasta(Trabalho-pratico-02-master) que foi extraida e selecione os arquivos presente na pasta "Trabalho pratico 02" e clique em abrir.  
